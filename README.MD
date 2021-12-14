@@ -10,7 +10,7 @@ _________________
 
 ## Objective
 
-The main objective of this web applicatio is this is user friendly blog creating app User can sign up using email id and password and create account.
+The main objective of this web applicatio is to develop user friendly blog creating app  where, User can sign up using email id and password and create account.
 After that user can just login to their dashboard and create blog where they can easily post and share the link with anyone.
 
 
