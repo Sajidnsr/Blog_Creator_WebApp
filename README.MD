@@ -23,9 +23,13 @@ Benefits
 
 
 
-**Associated tasks**
 
-	Created a platform for the bloggers who wants to just signup in a single step to create a account, after creating they can write their own blogs with applying different features that has added in this blog creator app. This has been designed i a very user friendly way where user can able to create, write and post their blogs globally.
+## Statement
+Create an web application to facilitate the blog creation capabilities.
+Approach: Kindly implement the below feature in your application.
+1. Create infrastructure in such a way that any user can create their blog.
+2. Allow user to use different type of formatting for text. Eg: we have seen that in MS WORD.
+3. Your web application should allow user to generate a link for every blog created at your application so that user can showcase their blog to real world.
 
 
 
